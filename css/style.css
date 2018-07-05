@@ -22,3 +22,13 @@ body {
     color: white;
     border-radius: 0px 0px 10px 10px;
 }
+
+.table1{
+    margin-top: 180px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.table-hover tbody tr:hover td {
+    background-color: dodgerblue;
+}
